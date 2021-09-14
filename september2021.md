@@ -63,8 +63,14 @@
 ## 13 September 2021
 
 1. csl-devanagari - An error crept into indic-transliteration package which converted `1/6` in slp1 encoding to `१꣡६` in Devanagari encoding. Raised the issue at https://github.com/indic-transliteration/indic_transliteration_py/issues/68 . This bug has resulted in alteration in many dictionaries. Keeping them on hold till the correction happens.
+2. sanskrit-lexicon-scans - KRM - scan page is cut at one location. Jim suggested that someone can look at all the scan pages and decide the pages which are sub par. See https://github.com/sanskrit-lexicon-scans/krm/issues/1#issuecomment-917718003
 
 ## 14 September 2021
+
+1. csl-homepage - Homepage now shows version number at two places i.e. in header and in bibliographic reference. See https://github.com/sanskrit-lexicon/csl-homepage/issues/9. Also see https://github.com/sanskrit-lexicon/csl-orig/issues/6#issuecomment-907084632 .
+2. csl-homepage - AP90 and AE dictionary year of publication was goofed up earlier. Correction made. See https://github.com/sanskrit-lexicon/csl-homepage/issues/6.
+3. csl-homepage - CLARIN tooltip correction made. See https://github.com/sanskrit-lexicon/csl-homepage/issues/10.
+4. csl-orig - GST - Advertisement of the books of author is moved out of csl-orig/v02/gst.txt file and put at csl-orig/v02/gst_advertisement.txt file. See https://github.com/sanskrit-lexicon/csl-orig/issues/611 for details.
 
 ## 15 September 2021
 
@@ -106,6 +112,8 @@
 2. SCH has many double spaces. Need to convert to single space. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/27#issuecomment-913587330.
 3. Do jihvAmUlIya and upadhmAnIya require different encoding? See https://github.com/sanskrit-lexicon/csl-devanagari/issues/29 .
 4. Add ab,ls tags for GRA (and may be other dictionaries too). See https://github.com/sanskrit-lexicon/GRA/issues/18 .
+5. Remove non-Devanagari markup outside scope of `{##}` tags. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/10
+6. A cronjob for Cologne jobs. Jim is not yet convinced about the utility or safety of this approach. See https://github.com/sanskrit-lexicon/csl-homepage/commit/830689231db8e12164cdf8cf9f82fbdf16e43d50. 
 
 # Execution status
 
