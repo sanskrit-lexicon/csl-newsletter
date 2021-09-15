@@ -70,9 +70,13 @@
 1. csl-homepage - Homepage now shows version number at two places i.e. in header and in bibliographic reference. See https://github.com/sanskrit-lexicon/csl-homepage/issues/9. Also see https://github.com/sanskrit-lexicon/csl-orig/issues/6#issuecomment-907084632 .
 2. csl-homepage - AP90 and AE dictionary year of publication was goofed up earlier. Correction made. See https://github.com/sanskrit-lexicon/csl-homepage/issues/6.
 3. csl-homepage - CLARIN tooltip correction made. See https://github.com/sanskrit-lexicon/csl-homepage/issues/10.
-4. csl-orig - GST - Advertisement of the books of author is moved out of csl-orig/v02/gst.txt file and put at csl-orig/v02/gst_advertisement.txt file. See https://github.com/sanskrit-lexicon/csl-orig/issues/611 for details.
+4. csl-orig - GST - Advertisement of the books of author is moved out of csl-orig/v02/gst/gst.txt file and put at csl-orig/v02/gst/gst_advertisement.txt file. See https://github.com/sanskrit-lexicon/csl-orig/issues/611 for details.
+5. sanskrit-lexicon/BOR - new repository BOR started. It is being used to track development of various improvements specific to BOR dictionary.
 
 ## 15 September 2021
+
+1. GreekInSanskrit - Greek text for BOESP has been provided. https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/33
+2. GreekInSanskrit - Greek texts for BHS, GST and VEI have been provided. See issues https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/37, https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/38 and https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/40.
 
 ## 16 September 2021
 
@@ -113,7 +117,9 @@
 3. Do jihvAmUlIya and upadhmAnIya require different encoding? See https://github.com/sanskrit-lexicon/csl-devanagari/issues/29 .
 4. Add ab,ls tags for GRA (and may be other dictionaries too). See https://github.com/sanskrit-lexicon/GRA/issues/18 .
 5. Remove non-Devanagari markup outside scope of `{##}` tags. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/10
-6. A cronjob for Cologne jobs. Jim is not yet convinced about the utility or safety of this approach. See https://github.com/sanskrit-lexicon/csl-homepage/commit/830689231db8e12164cdf8cf9f82fbdf16e43d50. 
+6. A cronjob for Cologne jobs. Jim is not yet convinced about the utility or safety of this approach. See https://github.com/sanskrit-lexicon/csl-homepage/commit/830689231db8e12164cdf8cf9f82fbdf16e43d50.
+7. PDF download to be made more accessible. See https://github.com/sanskrit-lexicon/COLOGNE/issues/367
+8. Compare the IAST and Devanagari headwords in the dictionaries BEN, BUR, MD, MW72, MW and PD. See https://github.com/sanskrit-lexicon/COLOGNE/issues/180 for details.
 
 # Execution status
 
