@@ -5,6 +5,7 @@
 1. https://github.com/sanskrit-lexicon/csl-orig/issues/586
 2. https://github.com/sanskrit-lexicon/csl-corrections/issues/80
 3. BHS - add metric symbols. See https://github.com/sanskrit-lexicon/csl-orig/commit/4fb1c8ef88a36cc20657d07302a25714959b5299
+4. csl-doc - Documentation updated to guide for pull request .
 
 ## 02 September 2021
 
@@ -23,6 +24,7 @@
 3. Issues https://github.com/sanskrit-lexicon/csl-devanagari/issues/1 to https://github.com/sanskrit-lexicon/csl-devanagari/issues/30 were raised. Necessary changes were made. Majority of them were regarding wrong conversion from accented IAST to Devanagari. As Mr. Nagabhushana Rao did not want such a conversion, and was happy with IAST data as it is, majority of issues were resolved. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/4#issuecomment-912456604 for details.
 4. Some changes were required when there were trailing whitespaces in the meta-line of a few dictionaries. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/9 for example.
 5. Removed trailing spaces from meta-lines. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/6, https://github.com/sanskrit-lexicon/csl-devanagari/issues/8, https://github.com/sanskrit-lexicon/csl-devanagari/issues/9, https://github.com/sanskrit-lexicon/csl-devanagari/issues/10
+6. csl-homepage - Changed display to show 38 dictionaries instead of 37 and the last date to 1993 instead of 1976.
 
 ## 04 September 2021
 
@@ -47,23 +49,30 @@
 ## 09 September 2021
 
 1. csl-orig - BEN dictionary ab and ls markup preparation made.
+2. csl-pywork - xmlchk_xampp.sh added in v02 to check validity of XML.
 
 ## 10 September 2021
 
 1. csl-orig - BEN dictionary ab and ls markup made. See https://github.com/sanskrit-lexicon/BEN/issues/2 for details.
+2. csl-pywork - BEN dictinoary ab and ls markup support added for code. See https://github.com/sanskrit-lexicon/csl-pywork/commit/ac963e356bb1eb248dd4810ebb6ee8cf1588a39a .
+3. csl-websanlexicon - Added BEN to dictionaries with ls markup.
 
 ## 11 September 2021
+
+1. csl-pywork - GRA go.=gothic abbreviation support added.
 
 ## 12 September 2021
 
 1. cologne-stardict - Removed dependency of `make_babylon.py` script on `lxml` module. lxml is difficult to install on windows, and is an overkill in the context. The script was modified to use native python xml.etree module.
 2. csl-orig - GRA dictionary. Added `<ab>` markup for Fi., Ku., BR., Be. SV. gl., Be. SV. gloss., Be. See https://github.com/sanskrit-lexicon/csl-orig/issues/616 and https://github.com/sanskrit-lexicon/GRA/issues/18 for details.
-
+3. csl-pywork - GRA abbreviations added. See https://github.com/sanskrit-lexicon/csl-pywork/commit/04b181da7f39c1daa21c2bc5d886a66900eb173c .
 
 ## 13 September 2021
 
 1. csl-devanagari - An error crept into indic-transliteration package which converted `1/6` in slp1 encoding to `१꣡६` in Devanagari encoding. Raised the issue at https://github.com/indic-transliteration/indic_transliteration_py/issues/68 . This bug has resulted in alteration in many dictionaries. Keeping them on hold till the correction happens.
 2. sanskrit-lexicon-scans - KRM - scan page is cut at one location. Jim suggested that someone can look at all the scan pages and decide the pages which are sub par. See https://github.com/sanskrit-lexicon-scans/krm/issues/1#issuecomment-917718003
+3. csl-pywork - Readme for `redo_xampp_selective.sh` script added. See https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/readme_selective.md . This script is to be used only for cronjob to update csl-json and cologne-stardict and indic-dict/stardict-sanskrit repository based on changes in csl-orig repository on reboot of Dhaval's computer. 
+4. csl-homepage - `update_version.sh` script added. See https://github.com/sanskrit-lexicon/csl-homepage/issues/9 for details.
 
 ## 14 September 2021
 
@@ -77,6 +86,7 @@
 
 1. GreekInSanskrit - Greek text for BOESP has been provided. https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/33
 2. GreekInSanskrit - Greek texts for BHS, GST and VEI have been provided. See issues https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/37, https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/38 and https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/40.
+3. Corrected Devanagari IAST differences in BUR dictionary. See https://github.com/sanskrit-lexicon/csl-orig/issues/626.
 
 ## 16 September 2021
 
@@ -119,7 +129,7 @@
 5. Remove non-Devanagari markup outside scope of `{##}` tags. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/10
 6. A cronjob for Cologne jobs. Jim is not yet convinced about the utility or safety of this approach. See https://github.com/sanskrit-lexicon/csl-homepage/commit/830689231db8e12164cdf8cf9f82fbdf16e43d50.
 7. PDF download to be made more accessible. See https://github.com/sanskrit-lexicon/COLOGNE/issues/367
-8. Compare the IAST and Devanagari headwords in the dictionaries BEN, BUR, MD, MW72, MW and PD. See https://github.com/sanskrit-lexicon/COLOGNE/issues/180 for details.
+8. Check the scans to find out pages having blurred images / cut images.
 
 # Execution status
 
@@ -133,6 +143,7 @@
 8. cologne-stardict - `move_to_stardict.sh` script was updated to accomodate the change in the directory indic-dict/stardict-sanskrit. In the current arrangements, indic-dict directory is sibling of cologne directory. See https://github.com/sanskrit-lexicon/cologne-stardict/commit/07463d426454dcf933373b7fbd359dc2c03e8a2b. 16 August 2021.
 9. cologne-stardict - Earlier, production directory of this repository was not tracked. Now, it is also tracked.
 10. cologne-stardict - Removed dependency of `make_babylon.py` script on `lxml` module. lxml is difficult to install on windows, and is an overkill in the context. The script was modified to use native python xml.etree module. 12 September 2021.
+11. Compare the IAST and Devanagari headwords in the dictionaries BEN, BUR, MD, MW72, MW and PD. See https://github.com/sanskrit-lexicon/COLOGNE/issues/180 for details.
 
 
 # Data correction
