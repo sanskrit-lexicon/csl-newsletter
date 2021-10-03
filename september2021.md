@@ -96,7 +96,8 @@
 2. GreekInSanskrit. BHS, GST, VEI. Greek texts for BHS, GST and VEI have been provided. See issues https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/37, https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/38 and https://github.com/sanskrit-lexicon/GreekInSanskrit/issues/40.
 3. csl-orig. BUR. Corrected Devanagari IAST differences in BUR dictionary. See https://github.com/sanskrit-lexicon/csl-orig/issues/626.
 4. csl-orig. BOR. Broken bar inside Sanskrit text converted to danda. See https://github.com/sanskrit-lexicon/csl-orig/issues/625. 
-
+5. csl-orig. BUR. Add a few Greek details. See https://github.com/sanskrit-lexicon/csl-orig/issues/607.
+ 
 ## 16 September 2021
 
 ## 17 September 2021
@@ -137,7 +138,7 @@
 
 ## 24 September 2021
 
-1. COLOGNE. Extended ASCII analysis done. See https://github.com/sanskrit-lexicon/COLOGNE/issues/368.
+1. COLOGNE. Extended ASCII analysis done. See https://github.com/sanskrit-lexicon/COLOGNE/issues/368. 
 2. COLOGNE. Changed masculine ordinal indicator to degree sign. See https://github.com/sanskrit-lexicon/COLOGNE/issues/369.
 
 ## 25 September 2021
@@ -171,7 +172,7 @@
 2. SCH has many double spaces. Need to convert to single space. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/27#issuecomment-913587330.
 3. Do jihvAmUlIya and upadhmAnIya require different encoding? See https://github.com/sanskrit-lexicon/csl-devanagari/issues/29 .
 4. Add ab,ls tags for GRA (and may be other dictionaries too). See https://github.com/sanskrit-lexicon/GRA/issues/18 .
-5. Remove non-Devanagari markup outside scope of `{##}` tags. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/10
+5. Remove non-Devanagari markup outside scope of `{##}` tags. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/10, https://github.com/sanskrit-lexicon/csl-orig/issues/606.
 6. A cronjob for Cologne jobs. Jim is not yet convinced about the utility or safety of this approach. See https://github.com/sanskrit-lexicon/csl-homepage/commit/830689231db8e12164cdf8cf9f82fbdf16e43d50.
 7. PDF download to be made more accessible. See https://github.com/sanskrit-lexicon/COLOGNE/issues/367
 8. Check the scans to find out pages having blurred images / cut images.
@@ -195,6 +196,11 @@
 26. COLOGNE. Check for missing links. Earlier, some approach using `xenu` tool was being explored. See https://github.com/sanskrit-lexicon/COLOGNE/issues/370.
 27. MCI. Add printed book categories in display. See https://github.com/sanskrit-lexicon/MCI/issues/1#issuecomment-927264425.
 28. cologne-stardict. Make babylon file directly from csl-orig/v02/xxx/xxx.txt file, instead of xxx.xml file. See https://github.com/sanskrit-lexicon/cologne-stardict/issues/20.
+29. csl-orig. Write a readme for csl-orig. See https://github.com/sanskrit-lexicon/csl-orig/issues/603.
+30. GRA. Examine the importance of special character in GRA. Also see https://github.com/sanskrit-lexicon/csl-orig/issues/609.
+31. csl-orig. KRM. Handle footnote better. See https://github.com/sanskrit-lexicon/csl-orig/issues/613.
+32. csl-orig. KRM. Data is required to be captured in tabular format instead of current linear markup. See https://github.com/sanskrit-lexicon/csl-orig/issues/613. 
+33. GRA. `ab` and `ls` handling in GRA is required. See https://github.com/sanskrit-lexicon/GRA/issues/18 and https://github.com/sanskrit-lexicon/csl-orig/issues/616.
 
 # Execution status
 
