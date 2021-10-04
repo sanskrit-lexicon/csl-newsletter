@@ -8,6 +8,7 @@
 4. csl-doc. Documentation updated to guide for pull request .
 5. csl-corrections. BHS. print changes made. See https://github.com/sanskrit-lexicon/csl-corrections/commit/0c7cb1aef7d156a6ddf70b4c679607c33d1390d1 and https://github.com/sanskrit-lexicon/csl-corrections/issues/80.
 6. funderburkjim/boesp-prep. Preparation of Boehtlingk, Indische Sprüche. See issues https://github.com/funderburkjim/boesp-prep/issues/3, https://github.com/funderburkjim/boesp-prep/issues/4 for details.
+7. csl-doc. Sphinx warnings regarding title and headings corrected. See https://github.com/sanskrit-lexicon/csl-doc/issues/6.
 
 ## 02 September 2021
 
