@@ -30,6 +30,7 @@
 1. sanskrit-lexicon-scans. Added the licence in all sanskrit-lexicon-scans repositories readme. See https://github.com/sanskrit-lexicon-scans/documentation/issues/1#issuecomment-933896879.
 2. csl-newsletter. The link to this repository was added on homepage. https://github.com/sanskrit-lexicon/COLOGNE/issues/374.
 3. csl-lnum. Readme was written. https://github.com/sanskrit-lexicon/csl-lnum/issues/1.
+4. csl-ldev. This repository was generated with an intention of providing Lnum wise entries in Devanagari script for user corrections.
 
 ## 06 October 2021
 
@@ -44,6 +45,8 @@
 
 ## 09 October 2021
 
+1. csl-orig. MW. Paninian links in MW added. See https://github.com/sanskrit-lexicon/MWS/issues/120.
+2. csl-websanlexicon. A bug regarding ळ्ह was corrected. See https://github.com/sanskrit-lexicon/COLOGNE/issues/377.
 
 ## 10 October 2021
 
@@ -53,7 +56,7 @@
 
 ## 12 October 2021
 
-
+1. BUR. 
 ## 13 October 2021
 
 
@@ -67,6 +70,8 @@
 
 ## 17 October 2021
 
+1. csl-orig. MW. Abbreviations cleanup. https://github.com/sanskrit-lexicon/MWS/issues/123.
+2. funderburkjim/boesp-prep. All D sequence problems corrected. https://github.com/funderburkjim/boesp-prep/issues/19.
 
 ## 18 October 2021
 
@@ -112,6 +117,8 @@
 4. funderburkjim/boesp-prep-sam. Sampada continues to proof-read BOESP in SLP1 transliteration.
 5. funderburkjim/boesp-prep-ab. Andhrabharati seems to have already completed his proof-reading of BOESP, but has not posted the file yet. Maybe it would be put to optimum use once Thomas and Sampada also complete their proof reading.
 6. csl-lnum. Is it necessary to match the digitized texts to printed texts? https://github.com/sanskrit-lexicon/csl-lnum/issues/2.
+7. COLOGNE. A semantic analysis of all dictionaries is to be undertaken, so that the data can be represented in more meaningful way. Major goal is to be able to achieve word-sense level markup. See https://github.com/sanskrit-lexicon/COLOGNE/issues/376.
+8. MWS. Whether to change SivapurARa references to skandapurARa? https://github.com/sanskrit-lexicon/MWS/issues/125
 
 # Repositories to be covered in newsletter
 
@@ -133,4 +140,4 @@
 15. funderburkjim/boesp-prep
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab
-
+18. csl-ldev
