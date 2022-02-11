@@ -37,6 +37,7 @@
 ## 13 December 2021
 
 1. csl-orig. INM. Punctuations at the end of italics and bold corrected. https://github.com/sanskrit-lexicon/INM/issues/6.
+2. csl-websanlexicon. INM. Show Greek text as italics. https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/9e31d7cb090a93ac87813b558c48957c69e773ab.
 
 ## 14 December 2021
 
@@ -51,6 +52,7 @@
 ## 17 December 2021
 
 1. csl-orig. All dictionaries have line markers like div, <> etc. removed. https://github.com/sanskrit-lexicon/csl-devanagari/issues/26 for details. 
+2. csl-pywork. make_xml.py is modified to handle the above. 
 
 ## 18 December 2021
 

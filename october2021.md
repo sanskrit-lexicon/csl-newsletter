@@ -28,7 +28,7 @@
 ## 05 October 2021
 
 1. sanskrit-lexicon-scans. Added the licence in all sanskrit-lexicon-scans repositories readme. See https://github.com/sanskrit-lexicon-scans/documentation/issues/1#issuecomment-933896879.
-2. csl-newsletter. The link to this repository was added on homepage. https://github.com/sanskrit-lexicon/COLOGNE/issues/374.
+2. csl-homepage. The link to csl-newsletter repository was added on homepage. https://github.com/sanskrit-lexicon/COLOGNE/issues/374.
 3. csl-lnum. Readme was written. https://github.com/sanskrit-lexicon/csl-lnum/issues/1.
 4. csl-ldev. This repository was generated with an intention of providing Lnum wise entries in Devanagari script for user corrections.
 
@@ -42,11 +42,13 @@
 
 ## 08 October 2021
 
+1. csl-websanlexicon. MCI. Show section names. https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/f268075a4501d037c8ce53663041f9189283e35c. 
 
 ## 09 October 2021
 
 1. csl-orig. MW. Paninian links in MW added. See https://github.com/sanskrit-lexicon/MWS/issues/120.
 2. csl-websanlexicon. A bug regarding ळ्ह was corrected. See https://github.com/sanskrit-lexicon/COLOGNE/issues/377.
+3. csl-websanlexicon. MW. Panini references with roman numerals handled. https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/f19ae60e0cd0d0157584602171bd6c5867d12630 and https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/f19ae60e0cd0d0157584602171bd6c5867d12630.
 
 ## 10 October 2021
 
@@ -56,7 +58,6 @@
 
 ## 12 October 2021
 
-1. BUR. 
 ## 13 October 2021
 
 
@@ -65,6 +66,7 @@
 
 ## 15 October 2021
 
+1. csl-pywork. MW. abbreviation lists updated. https://github.com/sanskrit-lexicon/MWS/issues/121.
 
 ## 16 October 2021
 

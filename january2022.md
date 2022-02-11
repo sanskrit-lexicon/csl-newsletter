@@ -58,6 +58,8 @@
 ## 21 January 2022
 
 1. csl-orig. Added links to Boehtlingk's Indische Sprüche in the PW and PWG. https://github.com/sanskrit-lexicon/PWK/issues/81.
+2. csl-websanlexicon. Display adjusted for the above. https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/b3e9f4a9089a0f8c76641762d5fc249958c27c19.
+
 ## 22 January 2022
 
 ## 23 January 2022
@@ -65,6 +67,7 @@
 
 ## 24 January 2022
 
+1. csl-pywork. Revise pwab_input and pwbib_input. 
 
 ## 25 January 2022
 
@@ -77,8 +80,11 @@
 
 ## 28 January 2022
 
+1. csl-websanlexicon. Links to Mahabharata Calcutta edition in PW. https://github.com/sanskrit-lexicon/PWG/issues/48 and https://github.com/sanskrit-lexicon/csl-websanlexicon/commit/9776768b8b139819ad1c757797c087889f6bf41f. 
 
 ## 29 January 2022
+
+1. csl-websanlexicon. Links to page numbers occurring in between the entry are clickable now. https://github.com/sanskrit-lexicon/PWG/issues/50.
 
 ## 30 January 2022
 
