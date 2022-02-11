@@ -119,6 +119,7 @@
 6. csl-lnum. Is it necessary to match the digitized texts to printed texts? https://github.com/sanskrit-lexicon/csl-lnum/issues/2.
 7. COLOGNE. A semantic analysis of all dictionaries is to be undertaken, so that the data can be represented in more meaningful way. Major goal is to be able to achieve word-sense level markup. See https://github.com/sanskrit-lexicon/COLOGNE/issues/376.
 8. MWS. Whether to change SivapurARa references to skandapurARa? https://github.com/sanskrit-lexicon/MWS/issues/125
+9. csl-orig. MW. How to handle shortlang problem? https://github.com/sanskrit-lexicon/csl-orig/issues/639.
 
 # Repositories to be covered in newsletter
 
