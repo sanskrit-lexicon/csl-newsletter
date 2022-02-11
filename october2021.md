@@ -122,6 +122,7 @@
 7. COLOGNE. A semantic analysis of all dictionaries is to be undertaken, so that the data can be represented in more meaningful way. Major goal is to be able to achieve word-sense level markup. See https://github.com/sanskrit-lexicon/COLOGNE/issues/376.
 8. MWS. Whether to change SivapurARa references to skandapurARa? https://github.com/sanskrit-lexicon/MWS/issues/125
 9. csl-orig. MW. How to handle shortlang problem? https://github.com/sanskrit-lexicon/csl-orig/issues/639.
+10. csl-devanagari. Andhrabharati has been listing major issues with respect to all dictionaries. There are many issues per dictionary raised there. There is really good work going on. Keep track of pending work from these remarks and files posted in the following issues. https://github.com/sanskrit-lexicon/csl-devanagari/issues.
 
 # Repositories to be covered in newsletter
 

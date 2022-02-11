@@ -49,6 +49,8 @@
 
 ## 16 December 2021
 
+1. cologne-stardict. Git LFS had issues with downstream applications. Removed dependence on git lfs. Reverted back to conventional git, for PW, PWG, VCP, SKD. 
+
 ## 17 December 2021
 
 1. csl-orig. All dictionaries have line markers like div, <> etc. removed. https://github.com/sanskrit-lexicon/csl-devanagari/issues/26 for details. 

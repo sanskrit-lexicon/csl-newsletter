@@ -68,6 +68,8 @@
 ## 24 January 2022
 
 1. csl-pywork. Revise pwab_input and pwbib_input. 
+2. cologne-stardict. Babylon files to have dictionary name and source-destination language pair in header. Some stardict-viewers use this information to group dictionaries. See https://github.com/indic-dict/stardict-sanskrit/issues/129.
+3. cologne-stardict. MW dependence on git lfs removed. https://github.com/sanskrit-lexicon/cologne-stardict/commit/62886d0b9f86981279c9d79678e73c6ea2a46efa.
 
 ## 25 January 2022
 
