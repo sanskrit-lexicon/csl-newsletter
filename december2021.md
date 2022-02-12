@@ -58,6 +58,7 @@
 
 ## 18 December 2021
 
+1. COLOGNE. The 'early digitizations' mentioned. https://github.com/sanskrit-lexicon/COLOGNE/issues/385.
 
 ## 19 December 2021
 
@@ -97,7 +98,9 @@
 # Brewing ideas
 
 1. csl-orig. Add abbreviation in MD. Also add abbreviations from frontmatter in all dictionaries. https://github.com/sanskrit-lexicon/csl-orig/issues/695.
-
+2. sanskrit-lexicon-scans. BHS. A new scan is made. Decide whether to replace existing scan at Cologne. https://github.com/sanskrit-lexicon/COLOGNE/issues/384.
+3. COLOGNE. Handle hyphenated text in uniform manner across dictionaries. See https://github.com/sanskrit-lexicon/COLOGNE/issues/386.
+4. COLOGNE. Gasyoun suggested that he will put a Sanskrit-Czech-Russian dictionary (Санскритская хрестоматия Т. 2. Словарь. - Москва, 2015.; ISBN 978-5-906564-06-1). See https://github.com/sanskrit-lexicon/COLOGNE/issues/387.
 
 # Repositories to be covered in newsletter
 

@@ -4,6 +4,8 @@
 
 ## 02 February 2022
 
+1. COLOGNE. A new python package to access CDSL data is launched by Hrishikesh Terdalkar. This package also has a facility for CLI usage and REPL usage. See https://github.com/hrishikeshrt/PyCDSL.
+
 ## 03 February 2022
 
 
@@ -19,6 +21,8 @@
 
 ## 07 February 2022
 
+1. sanskrit-lexicon-scans. Harivaṃśa. Added scans for Harivaṃśa. https://github.com/sanskrit-lexicon-scans/hariv.
+
 ## 08 February 2022
 
 
@@ -33,6 +37,8 @@
 
 
 ## 12 February 2022
+
+1. csl-orig. MW72. Added missing Greek and a few Arabic words. https://github.com/sanskrit-lexicon/MW72/issues/5.
 
 ## 13 February 2022
 
@@ -86,6 +92,10 @@
 
 # Brewing ideas
 
+1. PWK. Add MBH Calcutta edition links. https://github.com/sanskrit-lexicon/PWK/issues/82.
+2. PWK. Add Ramayana links. https://github.com/sanskrit-lexicon/PWK/issues/83.
+3. PWK. Add MBH Bombay edition links. https://github.com/sanskrit-lexicon/PWK/issues/84.
+4. Provide linkable scanned PDF targets for all references in all dictionaries (as far as we can get the PDFs). https://github.com/sanskrit-lexicon/COLOGNE/issues/390.
 
 # Repositories to be covered in newsletter
 
@@ -108,3 +118,4 @@
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab
 18. csl-ldev
+19. https://github.com/hrishikeshrt/PyCDSL

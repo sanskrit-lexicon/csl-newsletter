@@ -29,6 +29,7 @@
 
 ## 11 January 2022
 
+1. boesp-prep. Volume 1 corrections over. https://github.com/funderburkjim/boesp-prep/issues/44.
 
 ## 12 January 2022
 
@@ -73,6 +74,7 @@
 
 ## 25 January 2022
 
+1. MWS. Analysis of non-English words in MW was completed. Installation pending. https://github.com/sanskrit-lexicon/MWS/issues/127.
 
 ## 26 January 2022
 
@@ -90,6 +92,7 @@
 
 ## 30 January 2022
 
+1. sanskrit-lexicon-scans. Added Mahābhārata Calcutta edition. https://github.com/sanskrit-lexicon-scans/mbhcalc.
 
 ## 31 January 2022.
 
@@ -97,6 +100,11 @@
 # Brewing ideas
 
 1. csl-orig. Remove erroneous space after hyphen at the end of line. https://github.com/sanskrit-lexicon/csl-orig/issues/745.
+2. COLOGNE. Expand terse definitions like 'the same' or 'id.'. See https://github.com/sanskrit-lexicon/COLOGNE/issues/388.
+3. PWK. Digitization and linking to Spr. I, is pending. https://github.com/sanskrit-lexicon/PWK/issues/81#issuecomment-1024904989 and https://github.com/sanskrit-lexicon/PWK/issues/81#issuecomment-1024908327.
+4. PWG. literary source markup correction is required. https://github.com/sanskrit-lexicon/PWG/issues/46.
+5. boesp-prep. Complete proof reading of volumes 2 and 3. https://github.com/funderburkjim/boesp-prep/issues/48 and https://github.com/funderburkjim/boesp-prep/issues/49.
+6. boesp-prep. Serve the HTML files of prepared BOESP. https://github.com/funderburkjim/boesp-prep/issues/51.
 
 # Repositories to be covered in newsletter
 

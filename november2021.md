@@ -86,6 +86,8 @@
 
 # Brewing ideas
 
+1. sanskrit-lexicon-scans. CCS. New scan is available. Check whether better or not. https://github.com/sanskrit-lexicon/CCS/issues/2.
+2. PWK. A study of Boehtlingk literary sources is required. https://github.com/sanskrit-lexicon/PWK/issues/80.
 
 # Repositories to be covered in newsletter
 

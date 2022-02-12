@@ -123,6 +123,8 @@
 8. MWS. Whether to change SivapurARa references to skandapurARa? https://github.com/sanskrit-lexicon/MWS/issues/125
 9. csl-orig. MW. How to handle shortlang problem? https://github.com/sanskrit-lexicon/csl-orig/issues/639.
 10. csl-devanagari. Andhrabharati has been listing major issues with respect to all dictionaries. There are many issues per dictionary raised there. There is really good work going on. Keep track of pending work from these remarks and files posted in the following issues. https://github.com/sanskrit-lexicon/csl-devanagari/issues.
+11. BHS. Add frontmatter. Handle frontmatter. https://github.com/sanskrit-lexicon/BHS/issues/1.
+12. VCP and SKD. There are issues with regards to the spacing in both these dictionaries. They require full text proof reading. https://github.com/sanskrit-lexicon/VCP/issues/29.
 
 # Repositories to be covered in newsletter
 
