@@ -45,6 +45,8 @@
 
 ## 14 February 2022
 
+1. cologne-stardict. Shorten the correction submission and scanned page links, to reduce data size and dependence on git-lfs. A redirect javascript library hosted on github pages is used. https://github.com/sanskrit-lexicon/cologne-stardict/issues/33.
+2. csl-json. Too much data used to crash safari browser. JSON format is restructured to deliver `[text, pc, lnum]` to reduce data size. `<BR>` removed from JSON text. See https://github.com/sanskrit-lexicon/csl-json/issues/8 and https://github.com/sanskrit-lexicon/csl-json/issues/9.
 
 ## 15 February 2022
 
