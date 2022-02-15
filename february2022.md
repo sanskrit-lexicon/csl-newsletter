@@ -50,6 +50,7 @@
 
 ## 15 February 2022
 
+1. PWG. HarivaMSa links added in PWG. See PWG issue 49.
 
 ## 16 February 2022
 
