@@ -56,6 +56,7 @@
 
 ## 17 February 2022
 
+
 ## 18 February 2022
 
 
@@ -98,13 +99,6 @@
 2. PWK. Add Ramayana links. https://github.com/sanskrit-lexicon/PWK/issues/83.
 3. PWK. Add MBH Bombay edition links. https://github.com/sanskrit-lexicon/PWK/issues/84.
 4. Provide linkable scanned PDF targets for all references in all dictionaries (as far as we can get the PDFs). https://github.com/sanskrit-lexicon/COLOGNE/issues/390.
-5. Erroneous spaces after hyphen at the end of line need to be examined. Issue raised for ACC, but may be present in other dictionaries too. See https://github.com/sanskrit-lexicon/csl-orig/issues/745.
-6. Markup of the residual fractions in nyAsa portion require to be taken up with the Unicode. See https://github.com/sanskrit-lexicon/csl-orig/issues/746#issuecomment-1045719975.
-7. Digitization of Shabdastomamahodadhi started by Andhrabharati. See https://github.com/sanskrit-lexicon/csl-orig/issues/746#issuecomment-1045975030.
-8. A discussion on Kittel's dictionary was started. https://github.com/sanskrit-lexicon/csl-orig/issues/746#issuecomment-1045982504.
-9. Discussion started whether we should allow manual changes randomly in the dictionary data. There are divergent views. See https://github.com/sanskrit-lexicon/csl-orig/issues/747.
-10. AP90. Add etymology markup in AP90 and other similar dictionaries. See https://github.com/sanskrit-lexicon/csl-orig/issues/748#issuecomment-1053650642.
-11. 
 
 # Repositories to be covered in newsletter
 
