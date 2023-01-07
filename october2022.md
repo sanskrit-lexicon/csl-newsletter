@@ -67,6 +67,8 @@
 # Brewing ideas
 
 1. Supporting the alternate headwords for feminine headwords. See https://github.com/sanskrit-lexicon/csl-pywork/issues/30.
+2. Changelog for the Cologne homepage. See https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/24.
+
 
 # Repositories to be covered in newsletter
 
