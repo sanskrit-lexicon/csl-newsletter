@@ -28,6 +28,8 @@
 
 ## 13 March 2022
 
+1. sanskrit-lexicon-scans. ramayanschl. Uploaded the scan of Schlegel version of Ramayana. See https://github.com/sanskrit-lexicon-scans/ramayanaschl.
+
 ## 14 March 2022
 
 ## 15 March 2022
@@ -53,6 +55,8 @@
 ## 25 March 2022
 
 ## 26 March 2022
+
+1. sanskrit-lexicon-scans. ramayangorr. Completed upload of Gorresio version of Ramayana. See https://github.com/sanskrit-lexicon-scans/ramayanagorr.
 
 ## 27 March 2022
 

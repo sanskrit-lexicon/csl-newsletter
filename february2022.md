@@ -51,6 +51,7 @@
 ## 15 February 2022
 
 1. PWG. HarivaMSa links added in PWG. See PWG issue 49.
+2. sanskrit-lexica-scans. hariv. Added scans of Harivamsa. See https://github.com/sanskrit-lexicon-scans/hariv.
 
 ## 16 February 2022
 

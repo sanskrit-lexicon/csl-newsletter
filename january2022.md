@@ -92,7 +92,7 @@
 
 ## 30 January 2022
 
-1. sanskrit-lexicon-scans. Added Mahābhārata Calcutta edition. https://github.com/sanskrit-lexicon-scans/mbhcalc.
+1. sanskrit-lexicon-scans. mbhcalc. Added Mahābhārata Calcutta edition. https://github.com/sanskrit-lexicon-scans/mbhcalc.
 2. csl-devanagari. Andhrabharati started to analyze BUR dictionary data and made corrections. Pending to integrate. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/37.
 
 ## 31 January 2022.

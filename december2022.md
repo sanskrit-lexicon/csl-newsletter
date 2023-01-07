@@ -26,6 +26,8 @@
 
 ## 12 December 2022
 
+1. COLOGNE. webmaster changed the .htaccess file without our knowledge. That lead to various dictionaries not showing the PDF/images properly. This error was corrected. See https://github.com/sanskrit-lexicon/COLOGNE/issues/398.
+
 ## 13 December 2022
 
 ## 14 December 2022
@@ -66,11 +68,14 @@
 
 ## 29 December 2022
 
+1. sanskrit-lexicon-scans. SKD. Added new scan of SKD. See https://github.com/sanskrit-lexicon-scans/skd.
+
 ## 30 December 2022
 
 
 # Brewing ideas
 
+1. COLOGNE. Add new conventions and code to handle them, preferably in v03, at least for MW. This would allow us to experiment and add new features / markups. See https://github.com/sanskrit-lexicon/COLOGNE/issues/399
 
 # Repositories to be covered in newsletter
 

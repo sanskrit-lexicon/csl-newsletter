@@ -24,6 +24,7 @@
 
 1. csl-orig. LRV. Added the headwords of L.R. Vaidya dictionaries to csl-orig. LRV now forms part of the CDSL dictionaries.
 2. csl-pywork. Started adding feminine headwords in LRV. See https://github.com/sanskrit-lexicon/csl-pywork/issues/30.
+3. sanskrit-lexicon-scans. LRV. Added scans of LRV. See https://github.com/sanskrit-lexicon-scans/lrv.
 
 ## 12 October 2022
 

@@ -71,6 +71,7 @@
 2. csl-orig. Merge entries with dangling 'ls' tags in MW. See https://github.com/sanskrit-lexicon/csl-orig/issues/853. 
 3. csl-orig. BUR. Upgrade subheadwords to headwords. See https://github.com/sanskrit-lexicon/csl-orig/issues/800.
 4. csl-devanagari. BOP. Andhrabharati has sent corrected version of BOP with Greek words supplied. Pending to integrate in CDSL. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/39 and  https://github.com/sanskrit-lexicon/csl-devanagari/issues/40.
+5. COLOGNE. Allow a user generated definition / information in a layer above the CDSL data. See https://github.com/sanskrit-lexicon/COLOGNE/issues/394.
 
 # Repositories to be covered in newsletter
 
