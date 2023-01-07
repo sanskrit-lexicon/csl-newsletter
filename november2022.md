@@ -10,6 +10,8 @@
 
 ## 05 November 2022
 
+1. csl-homepage. Added a link to MW inflected forms link on the homepage. See https://github.com/sanskrit-lexicon/csl-homepage/issues/11.
+
 ## 06 November 2022
 
 ## 07 November 2022
@@ -71,7 +73,8 @@
 # Brewing ideas
 
 1. csl-websanlexicon. Remove XSS vulnerability. See https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/27.
-2. 
+2. csl-homepage. Add L. R. Vaidya dictionary to the homepage. See https://github.com/sanskrit-lexicon/csl-homepage/issues/12.
+3. csl-homepage. Add PWKVN dictionary to the homepage. See https://github.com/sanskrit-lexicon/csl-homepage/issues/13.
 
 # Repositories to be covered in newsletter
 

@@ -1,104 +1,71 @@
 # Datewise log
 
-## 01 February 2022
+## 01 March 2022
 
-## 02 February 2022
+## 02 March 2022
 
-1. COLOGNE. A new python package to access CDSL data is launched by Hrishikesh Terdalkar. This package also has a facility for CLI usage and REPL usage. See https://github.com/hrishikeshrt/PyCDSL.
+## 03 March 2022
 
-## 03 February 2022
+## 04 March 2022
 
+## 05 March 2022
 
-## 04 February 2022
+1. csl-devanagari. slp1_accented transliteration scheme in indic-transliteration package gave rise to new side-effects. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/38.
 
+## 06 March 2022
 
-## 05 February 2022
+## 07 March 2022
 
-1. csl-orig. PWG. Links to Mahabharata Calcutta edition added. https://github.com/sanskrit-lexicon/PWG/issues/48.
+## 08 March 2022
 
-## 06 February 2022
+## 09 March 2022
 
+## 10 March 2022
 
-## 07 February 2022
+## 11 March 2022
 
-1. sanskrit-lexicon-scans. Harivaṃśa. Added scans for Harivaṃśa. https://github.com/sanskrit-lexicon-scans/hariv.
+## 12 March 2022
 
-## 08 February 2022
+## 13 March 2022
 
+## 14 March 2022
 
-## 09 February 2022
+## 15 March 2022
 
-1. csl-orig. PWG. Added Harivamsa links. https://github.com/sanskrit-lexicon/PWG/issues/49.
+## 16 March 2022
 
-## 10 February 2022
+## 17 March 2022
 
+## 18 March 2022
 
-## 11 February 2022
+## 19 March 2022
 
+## 20 March 2022
 
-## 12 February 2022
+## 21 March 2022
 
-1. csl-orig. MW72. Added missing Greek and a few Arabic words. https://github.com/sanskrit-lexicon/MW72/issues/5.
+## 22 March 2022
 
-## 13 February 2022
+## 23 March 2022
 
+## 24 March 2022
 
-## 14 February 2022
+## 25 March 2022
 
-1. cologne-stardict. Shorten the correction submission and scanned page links, to reduce data size and dependence on git-lfs. A redirect javascript library hosted on github pages is used. https://github.com/sanskrit-lexicon/cologne-stardict/issues/33.
-2. csl-json. Too much data used to crash safari browser. JSON format is restructured to deliver `[text, pc, lnum]` to reduce data size. `<BR>` removed from JSON text. See https://github.com/sanskrit-lexicon/csl-json/issues/8 and https://github.com/sanskrit-lexicon/csl-json/issues/9.
+## 26 March 2022
 
-## 15 February 2022
+## 27 March 2022
 
-1. PWG. HarivaMSa links added in PWG. See PWG issue 49.
+## 28 March 2022
 
-## 16 February 2022
+## 29 March 2022
 
-## 17 February 2022
-
-
-## 18 February 2022
-
-
-## 19 February 2022
-
-
-## 20 February 2022
-
-
-## 21 February 2022
-
-## 22 February 2022
-
-## 23 February 2022
-
-
-## 24 February 2022
-
-
-## 25 February 2022
-
-
-## 26 February 2022
-
-
-## 27 February 2022
-
-
-## 28 February 2022
-
-
-## 29 February 2022
-
-## 30 February 2022
+## 30 March 2022
 
 
 # Brewing ideas
 
-1. PWK. Add MBH Calcutta edition links. https://github.com/sanskrit-lexicon/PWK/issues/82.
-2. PWK. Add Ramayana links. https://github.com/sanskrit-lexicon/PWK/issues/83.
-3. PWK. Add MBH Bombay edition links. https://github.com/sanskrit-lexicon/PWK/issues/84.
-4. Provide linkable scanned PDF targets for all references in all dictionaries (as far as we can get the PDFs). https://github.com/sanskrit-lexicon/COLOGNE/issues/390.
+1. csl-devanagari. slp1_accented transliteration scheme in indic-transliteration package gave rise to new side-effects. Pending to correct them. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/38.
 
 # Repositories to be covered in newsletter
 

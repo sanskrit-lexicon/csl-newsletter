@@ -60,7 +60,6 @@
 
 ## 28 April 2022
 
-
 ## 29 April 2022
 
 ## 30 April 2022
@@ -71,6 +70,7 @@
 1. csl-orig. Inadequacy of 'prec', 'id', 'ibid', 'same as'. They need to be expanded. Otherwise, they will not make sense in the basic / advanced views or in the stardict format. https://github.com/sanskrit-lexicon/csl-orig/issues/852.
 2. csl-orig. Merge entries with dangling 'ls' tags in MW. See https://github.com/sanskrit-lexicon/csl-orig/issues/853. 
 3. csl-orig. BUR. Upgrade subheadwords to headwords. See https://github.com/sanskrit-lexicon/csl-orig/issues/800.
+4. csl-devanagari. BOP. Andhrabharati has sent corrected version of BOP with Greek words supplied. Pending to integrate in CDSL. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/39 and  https://github.com/sanskrit-lexicon/csl-devanagari/issues/40.
 
 # Repositories to be covered in newsletter
 

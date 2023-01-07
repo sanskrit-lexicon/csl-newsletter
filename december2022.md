@@ -14,6 +14,8 @@
 
 ## 07 December 2022
 
+1. csl-homepage. Added a link to the DSAL Pali dictionary to homepage. See https://github.com/sanskrit-lexicon/csl-homepage/issues/14.
+
 ## 08 December 2022
 
 ## 09 December 2022

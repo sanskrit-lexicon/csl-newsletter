@@ -65,6 +65,7 @@
 
 # Brewing ideas
 
+1. cologne-stardict. Pending to resolve the wrong transliteration like पर्ॐहु. See https://github.com/sanskrit-lexicon/cologne-stardict/issues/35.
 
 # Repositories to be covered in newsletter
 

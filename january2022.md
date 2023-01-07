@@ -93,6 +93,7 @@
 ## 30 January 2022
 
 1. sanskrit-lexicon-scans. Added Mahābhārata Calcutta edition. https://github.com/sanskrit-lexicon-scans/mbhcalc.
+2. csl-devanagari. Andhrabharati started to analyze BUR dictionary data and made corrections. Pending to integrate. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/37.
 
 ## 31 January 2022.
 
@@ -105,6 +106,8 @@
 4. PWG. literary source markup correction is required. https://github.com/sanskrit-lexicon/PWG/issues/46.
 5. boesp-prep. Complete proof reading of volumes 2 and 3. https://github.com/funderburkjim/boesp-prep/issues/48 and https://github.com/funderburkjim/boesp-prep/issues/49.
 6. boesp-prep. Serve the HTML files of prepared BOESP. https://github.com/funderburkjim/boesp-prep/issues/51.
+7. csl-devanagari. Andhrabharati started to analyze BUR dictionary data and made corrections. Pending to integrate. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/37.
+
 
 # Repositories to be covered in newsletter
 
