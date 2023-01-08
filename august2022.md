@@ -22,6 +22,8 @@
 
 ## 11 August 2022
 
+1. boesp-prep. Completed corrections in BOESP volume 3. See https://github.com/funderburkjim/boesp-prep/issues/49.
+
 ## 12 August 2022
 
 ## 13 August 2022
@@ -62,6 +64,8 @@
 
 
 # Brewing ideas
+
+1. boesp-prep. Proof reading of the footnotes of BOESP started. See https://github.com/funderburkjim/boesp-prep/issues/54.
 
 # Repositories to be covered in newsletter
 

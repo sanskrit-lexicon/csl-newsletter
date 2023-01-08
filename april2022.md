@@ -24,6 +24,8 @@
 
 ## 12 April 2022
 
+1. boesp-prep. Coorections to volume 2 of BOESP completed. See https://github.com/funderburkjim/boesp-prep/issues/48.
+
 ## 13 April 2022
 
 ## 14 April 2022

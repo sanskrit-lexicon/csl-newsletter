@@ -49,6 +49,7 @@
 
 ## 18 January 2022
 
+1. boesp-prep. Prepared linkable targets for BOESP. See https://github.com/funderburkjim/boesp-prep/issues/51.
 
 ## 19 January 2022
 
