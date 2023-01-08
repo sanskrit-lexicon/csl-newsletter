@@ -2,7 +2,7 @@
 
 ## 01 January 2023
 
-1. sanskrit-lexicon-scans. GRA. Uploaded new Bayer scans. See https://github.com/sanskrit-lexicon-scans/gra.
+1. sanskrit-lexicon-scans. GRA. Uploaded new Bayer scans. See https://github.com/sanskrit-lexicon-scans/gra and https://github.com/sanskrit-lexicon/GRA/issues/19.
 
 ## 02 January 2023
 
