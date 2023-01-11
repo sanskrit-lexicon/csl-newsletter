@@ -70,7 +70,7 @@
 # Brewing ideas
 
 1. MWS. Possible new markup for alternates have been suggested by Jim. See https://github.com/sanskrit-lexicon/MWS/issues/147.
-2. 
+
 # Repositories to be covered in newsletter
 
 1. csl-orig
@@ -87,7 +87,7 @@
 12. CORRECTIONS
 13. COLOGNE
 14. Dictionarywise repositories for the following dicts. 
-`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh`
+`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh lrv`
 15. funderburkjim/boesp-prep
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab

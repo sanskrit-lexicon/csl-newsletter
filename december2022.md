@@ -34,6 +34,8 @@
 
 ## 15 December 2022
 
+1. SKD. Replace scans of SKD with high quality. See https://github.com/sanskrit-lexicon/SKD/issues/16.
+
 ## 16 December 2022
 
 ## 17 December 2022
@@ -101,7 +103,7 @@
 12. CORRECTIONS
 13. COLOGNE
 14. Dictionarywise repositories for the following dicts. 
-`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh`
+`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh lrv`
 15. funderburkjim/boesp-prep
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab

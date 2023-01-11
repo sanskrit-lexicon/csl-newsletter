@@ -70,7 +70,7 @@
 1. cologne-stardict. Pending to resolve the wrong transliteration like पर्ॐहु. See https://github.com/sanskrit-lexicon/cologne-stardict/issues/35.
 2. MWS. Accent representation has to be somehow standardized across dictionaries. They are idiosyncratic today. See https://github.com/sanskrit-lexicon/MWS/issues/140.
 3. PWG. Add Amarakosha markup along with links to target. See https://github.com/sanskrit-lexicon/PWG/issues/62
-
+4. LRV. Started preparing dictionary L. R. Vaidya for integration in the CDSL framework.
 
 # Repositories to be covered in newsletter
 
@@ -88,7 +88,7 @@
 12. CORRECTIONS
 13. COLOGNE
 14. Dictionarywise repositories for the following dicts. 
-`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh`
+`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh lrv`
 15. funderburkjim/boesp-prep
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab

@@ -73,6 +73,7 @@
 1. csl-devanagari. slp1_accented transliteration scheme in indic-transliteration package gave rise to new side-effects. Pending to correct them. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/38.
 2. MD. 174 corrections suggested by Andhrabharati. See https://github.com/sanskrit-lexicon/MD/issues/8.
 3. PWG. Add Ramayana Schlegel link targets. See https://github.com/sanskrit-lexicon/PWG/issues/54.
+4. WIL. Possibility of changing low resolution scans with high resolution scans. See https://github.com/sanskrit-lexicon/WIL/issues/13.
 
 # Repositories to be covered in newsletter
 

@@ -20,11 +20,14 @@
 
 ## 10 October 2022
 
+1. LRV. Add feminine headwords. See https://github.com/sanskrit-lexicon/LRV/issues/19.
+
 ## 11 October 2022
 
 1. csl-orig. LRV. Added the headwords of L.R. Vaidya dictionaries to csl-orig. LRV now forms part of the CDSL dictionaries.
 2. csl-pywork. Started adding feminine headwords in LRV. See https://github.com/sanskrit-lexicon/csl-pywork/issues/30.
 3. sanskrit-lexicon-scans. LRV. Added scans of LRV. See https://github.com/sanskrit-lexicon-scans/lrv.
+4. LRV. Add neuter headwords. See https://github.com/sanskrit-lexicon/LRV/issues/20.
 
 ## 12 October 2022
 
@@ -71,6 +74,7 @@
 
 1. Supporting the alternate headwords for feminine headwords. See https://github.com/sanskrit-lexicon/csl-pywork/issues/30.
 2. Changelog for the Cologne homepage. See https://github.com/sanskrit-lexicon/csl-websanlexicon/issues/24.
+3. LRV. Pending to install LRV to csl-orig. See https://github.com/sanskrit-lexicon/LRV/issues/15.
 
 
 # Repositories to be covered in newsletter
@@ -89,7 +93,7 @@
 12. CORRECTIONS
 13. COLOGNE
 14. Dictionarywise repositories for the following dicts. 
-`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh`
+`acc ae ap ap90 ben bhs bop bor bur cae ccs gra gst ieg inm krm mci md mw mw72 mwe pd pe pgn pui pw pwg sch shs skd snp stc vcp vei wil yat lan armh lrv`
 15. funderburkjim/boesp-prep
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab
