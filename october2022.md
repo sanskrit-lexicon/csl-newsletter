@@ -52,6 +52,8 @@
 
 ## 24 October 2022
 
+1. MWS. Programmatic corrections to MW accent were made. See https://github.com/sanskrit-lexicon/MWS/issues/141.
+
 ## 25 October 2022
 
 ## 26 October 2022

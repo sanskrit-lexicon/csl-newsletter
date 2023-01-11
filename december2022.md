@@ -51,6 +51,7 @@
 ## 22 December 2022
 
 1. csl-orig. Corrected user submitted corrections. See https://github.com/sanskrit-lexicon/csl-orig/issues/985 to https://github.com/sanskrit-lexicon/csl-orig/issues/1055. 
+2. MWS. Major manual correction of MW accents were done by Jim. See https://github.com/sanskrit-lexicon/MWS/issues/142.
 
 ## 23 December 2022
 
@@ -62,6 +63,8 @@
 
 ## 26 December 2022
 
+1. MWS. Some accent corrections in MW. See https://github.com/sanskrit-lexicon/MWS/issues/145.
+
 ## 27 December 2022
 
 ## 28 December 2022
@@ -72,10 +75,15 @@
 
 ## 30 December 2022
 
+1. MWS. New scans of MW dictionaries were added. They are now coloured, compared with grayscale scans of before. See https://github.com/sanskrit-lexicon/MWS/issues/144.
+
 
 # Brewing ideas
 
 1. COLOGNE. Add new conventions and code to handle them, preferably in v03, at least for MW. This would allow us to experiment and add new features / markups. See https://github.com/sanskrit-lexicon/COLOGNE/issues/399
+2. MWS. Andhrabharati has always wanted to do corrections of all entries of a given dictionary in one go, instead of making changes based on different themes. We need to help establish some system, which will be able to handle this transition. See https://github.com/sanskrit-lexicon/MWS/issues/145#issuecomment-1364639704.
+3. MWS. Examine possibly missed alternate headwords. See https://github.com/sanskrit-lexicon/MWS/issues/145#issuecomment-1374555732.
+4. MWS. Andhrabharati started small steps towards full review of MW. We need to smoothen out the differences of opinion. See https://github.com/sanskrit-lexicon/MWS/issues/146.	
 
 # Repositories to be covered in newsletter
 

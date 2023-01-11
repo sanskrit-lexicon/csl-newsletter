@@ -10,6 +10,8 @@
 
 ## 05 September 2022
 
+1. MWS. A lot of miscellaneous corrections are made. See https://github.com/sanskrit-lexicon/MWS/issues/137.
+
 ## 06 September 2022
 
 ## 07 September 2022
@@ -66,6 +68,7 @@
 # Brewing ideas
 
 1. cologne-stardict. Pending to resolve the wrong transliteration like पर्ॐहु. See https://github.com/sanskrit-lexicon/cologne-stardict/issues/35.
+2. MWS. Accent representation has to be somehow standardized across dictionaries. They are idiosyncratic today. See https://github.com/sanskrit-lexicon/MWS/issues/140.
 
 # Repositories to be covered in newsletter
 

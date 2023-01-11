@@ -72,7 +72,6 @@
 
 ## 23 February 2022
 
-
 ## 24 February 2022
 
 
@@ -105,7 +104,10 @@
 8. A discussion on Kittel's dictionary was started. https://github.com/sanskrit-lexicon/csl-orig/issues/746#issuecomment-1045982504.
 9. Discussion started whether we should allow manual changes randomly in the dictionary data. There are divergent views. See https://github.com/sanskrit-lexicon/csl-orig/issues/747.
 10. AP90. Add etymology markup in AP90 and other similar dictionaries. See https://github.com/sanskrit-lexicon/csl-orig/issues/748#issuecomment-1053650642.
-11. 
+11. MWS. Missing links in MW dictionary. See https://github.com/sanskrit-lexicon/MWS/issues/129.
+12. MWS. Achive consistency in the 'hom' tag in MW. See https://github.com/sanskrit-lexicon/MWS/issues/131.
+13. MWS. Examine the possibility of using DCS database as the link target for MW. See https://github.com/sanskrit-lexicon/MWS/issues/139.
+14. 
 
 # Repositories to be covered in newsletter
 

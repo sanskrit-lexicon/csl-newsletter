@@ -69,7 +69,7 @@
 
 # Brewing ideas
 
-
+1. MWS. Possible new markup for alternates have been suggested by Jim. 
 # Repositories to be covered in newsletter
 
 1. csl-orig

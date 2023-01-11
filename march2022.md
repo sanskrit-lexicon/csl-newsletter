@@ -70,6 +70,7 @@
 # Brewing ideas
 
 1. csl-devanagari. slp1_accented transliteration scheme in indic-transliteration package gave rise to new side-effects. Pending to correct them. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/38.
+2. MD. 174 corrections suggested by Andhrabharati. See https://github.com/sanskrit-lexicon/MD/issues/8.
 
 # Repositories to be covered in newsletter
 

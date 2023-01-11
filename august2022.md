@@ -10,6 +10,8 @@
 
 ## 05 August 2022
 
+1. MWS. Added a lot of missing literary sources or corrected some literary sources. See https://github.com/sanskrit-lexicon/MWS/issues/135.
+
 ## 06 August 2022
 
 ## 07 August 2022
@@ -46,6 +48,8 @@
 
 ## 22 August 2022
 
+1. MWS. 6800 odd entries with missing broken bar were supplied with details. See https://github.com/sanskrit-lexicon/MWS/issues/132.
+2. 
 ## 23 August 2022
 
 ## 24 August 2022
