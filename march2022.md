@@ -57,6 +57,7 @@
 ## 26 March 2022
 
 1. sanskrit-lexicon-scans. ramayangorr. Completed upload of Gorresio version of Ramayana. See https://github.com/sanskrit-lexicon-scans/ramayanagorr.
+2. PWG. Added links to Gorresio edition of Ramayana in PWG dictionaries. See https://github.com/sanskrit-lexicon/PWG/issues/53.
 
 ## 27 March 2022
 
@@ -71,6 +72,7 @@
 
 1. csl-devanagari. slp1_accented transliteration scheme in indic-transliteration package gave rise to new side-effects. Pending to correct them. See https://github.com/sanskrit-lexicon/csl-devanagari/issues/38.
 2. MD. 174 corrections suggested by Andhrabharati. See https://github.com/sanskrit-lexicon/MD/issues/8.
+3. PWG. Add Ramayana Schlegel link targets. See https://github.com/sanskrit-lexicon/PWG/issues/54.
 
 # Repositories to be covered in newsletter
 

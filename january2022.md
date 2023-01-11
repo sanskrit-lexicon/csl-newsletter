@@ -64,6 +64,8 @@
 
 ## 22 January 2022
 
+1. PWK. Added the links to BOESP from the PW dictionary. See https://github.com/sanskrit-lexicon/PWK/issues/81.
+
 ## 23 January 2022
 
 
@@ -72,6 +74,8 @@
 1. csl-pywork. Revise pwab_input and pwbib_input. 
 2. cologne-stardict. Babylon files to have dictionary name and source-destination language pair in header. Some stardict-viewers use this information to group dictionaries. See https://github.com/indic-dict/stardict-sanskrit/issues/129.
 3. cologne-stardict. MW dependence on git lfs removed. https://github.com/sanskrit-lexicon/cologne-stardict/commit/62886d0b9f86981279c9d79678e73c6ea2a46efa.
+4. PWG. literary source corrections for Spr. (II). See https://github.com/sanskrit-lexicon/PWG/issues/45.
+5. PWG. A few missing literary sources were provided. See https://github.com/sanskrit-lexicon/PWG/issues/47.
 
 ## 25 January 2022
 

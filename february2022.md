@@ -18,6 +18,7 @@
 
 ## 06 February 2022
 
+1. PWG. Added links to Mahabharata Calcutta edition. See https://github.com/sanskrit-lexicon/PWG/issues/48.
 
 ## 07 February 2022
 
@@ -65,7 +66,6 @@
 
 ## 20 February 2022
 
-
 ## 21 February 2022
 
 ## 22 February 2022
@@ -74,6 +74,7 @@
 
 ## 24 February 2022
 
+1. PWG. Links to pages were missing in case the page number came in between the dictionary entry. Corrected the same. See https://github.com/sanskrit-lexicon/PWG/issues/50.
 
 ## 25 February 2022
 
@@ -107,7 +108,8 @@
 11. MWS. Missing links in MW dictionary. See https://github.com/sanskrit-lexicon/MWS/issues/129.
 12. MWS. Achive consistency in the 'hom' tag in MW. See https://github.com/sanskrit-lexicon/MWS/issues/131.
 13. MWS. Examine the possibility of using DCS database as the link target for MW. See https://github.com/sanskrit-lexicon/MWS/issues/139.
-14. 
+14. PWG. Literary sources markup for PWG was improved. See https://github.com/sanskrit-lexicon/PWG/issues/51.
+15. PWG. Decide how to integrate VN to PWG. See https://github.com/sanskrit-lexicon/PWG/issues/52.
 
 # Repositories to be covered in newsletter
 

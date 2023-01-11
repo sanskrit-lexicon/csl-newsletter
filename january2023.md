@@ -69,7 +69,8 @@
 
 # Brewing ideas
 
-1. MWS. Possible new markup for alternates have been suggested by Jim. 
+1. MWS. Possible new markup for alternates have been suggested by Jim. See https://github.com/sanskrit-lexicon/MWS/issues/147.
+2. 
 # Repositories to be covered in newsletter
 
 1. csl-orig

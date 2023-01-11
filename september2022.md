@@ -69,6 +69,8 @@
 
 1. cologne-stardict. Pending to resolve the wrong transliteration like पर्ॐहु. See https://github.com/sanskrit-lexicon/cologne-stardict/issues/35.
 2. MWS. Accent representation has to be somehow standardized across dictionaries. They are idiosyncratic today. See https://github.com/sanskrit-lexicon/MWS/issues/140.
+3. PWG. Add Amarakosha markup along with links to target. See https://github.com/sanskrit-lexicon/PWG/issues/62
+
 
 # Repositories to be covered in newsletter
 
