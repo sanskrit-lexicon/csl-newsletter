@@ -7,7 +7,6 @@ This newsletter is written with a view to note down important changes occurring 
 
 | Year | Month | Link |
 | --- | --- | --- |
-
 | 2023 | July | [July, 2023](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/january2023.md) |
 | 2023 | June | [June, 2023](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/january2023.md) |
 | 2023 | April | [April, 2023](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/january2023.md) |
