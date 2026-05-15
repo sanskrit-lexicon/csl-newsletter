@@ -4,16 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**csl-newsletter** is a day-wise activity log for the Cologne Digital Sanskrit Lexicon (CDSL) project. It records significant changes, corrections, and milestones at the `sanskrit-lexicon` GitHub organization, intended to support future academic publication.
+**csl-newsletter** is a Sanskrit Lexicon **build-meta** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-## Architecture
+## Repo Category
 
-Each Markdown file is one month's newsletter (e.g., `april2023.md`, `december2022.md`). Entries are organized by date and describe:
-- Corrections applied to specific dictionaries
-- New features or pipeline changes
-- Issues opened/closed
-- Cross-repository coordination work
+`build-meta` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-## Contribution
+## GitHub Issue Conventions
 
-To add a new entry, edit the current month's `.md` file (or create a new one for a new month) and commit directly to `main`. Follow the existing format: date heading, then bullet points describing activities.
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
+
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
+
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
+
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
+
+## Cross-Repo Coordination
+
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
