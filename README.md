@@ -12,6 +12,7 @@ Email delivery is via **Buttondown**. To subscribe: https://sanskrit-lexicon.git
 
 | Year | Month | Link |
 | --- | --- | --- |
+| 2026 | July | [July, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/july2026.md) |
 | 2026 | June | [June, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/june2026.md) |
 | 2023 | July | [July, 2023](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/july2023.md) |
 | 2023 | June | [June, 2023](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/june2023.md) |
