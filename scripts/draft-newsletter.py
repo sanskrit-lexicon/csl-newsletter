@@ -7,8 +7,8 @@ then outputs a Markdown draft ready to edit and paste into Buttondown.
 
 Usage:
     python scripts/draft-newsletter.py
-    python scripts/draft-newsletter.py --since 2026-06-01
-    python scripts/draft-newsletter.py --output blog/2026-06-28-cdsl-newsletter-june-2026.md
+    python scripts/draft-newsletter.py --since 2026-07-01 --until 2026-07-31
+    python scripts/draft-newsletter.py --since 2026-06-01 --output draft.md
 
 Requires: gh CLI authenticated (`gh auth login`)
 """
@@ -57,6 +57,8 @@ def main():
                                      formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument('--since', default=None,
                         help='Start date YYYY-MM-DD (default: 30 days ago)')
+    parser.add_argument('--until', default=None,
+                        help='End date YYYY-MM-DD (default: today)')
     parser.add_argument('--output', '-o', default='-',
                         help='Output file path (default: stdout)')
     args = parser.parse_args()
@@ -66,16 +68,24 @@ def main():
     else:
         since_dt = datetime.now(timezone.utc) - timedelta(days=30)
 
-    now = datetime.now(timezone.utc)
+    if args.until:
+        until_dt = datetime.fromisoformat(args.until).replace(
+            hour=23, minute=59, second=59, tzinfo=timezone.utc)
+    else:
+        until_dt = datetime.now(timezone.utc)
+
     since_iso = since_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
-    month_year = now.strftime('%B %Y')
-    period = f"{since_dt.strftime('%Y-%m-%d')} to {now.strftime('%Y-%m-%d')}"
+    until_iso = until_dt.strftime('%Y-%m-%dT%H:%M:%SZ')
+    month_year = until_dt.strftime('%B %Y')
+    period = f"{since_dt.strftime('%Y-%m-%d')} to {until_dt.strftime('%Y-%m-%d')}"
 
     print(f"Fetching repos for {ORG}...", file=sys.stderr)
     all_repos = gh_paginate(f'/orgs/{ORG}/repos?per_page=100')
     active_repos = sorted(
         [r for r in all_repos
-         if not r.get('archived') and r.get('pushed_at', '') >= since_iso],
+         if not r.get('archived')
+         and r.get('pushed_at', '') >= since_iso
+         and r.get('pushed_at', '') <= until_iso],
         key=lambda r: r['pushed_at'],
         reverse=True,
     )
@@ -90,7 +100,7 @@ def main():
         print(f"  {name}", file=sys.stderr)
 
         commits = gh_json(
-            f'/repos/{ORG}/{name}/commits?since={since_iso}&per_page=100'
+            f'/repos/{ORG}/{name}/commits?since={since_iso}&until={until_iso}&per_page=100'
         ) or []
         commits = [
             c for c in commits
@@ -105,6 +115,7 @@ def main():
             i for i in issues
             if 'pull_request' not in i
             and (i.get('closed_at') or '') >= since_iso
+            and (i.get('closed_at') or '') <= until_iso
         ]
 
         if not commits and not issues:
@@ -140,8 +151,8 @@ def main():
         else '_No repository activity found for this period._'
     )
 
-    slug = f"newsletter-{now.strftime('%Y-%m')}"
-    file_date = now.strftime('%Y-%m-%d')
+    slug = f"newsletter-{until_dt.strftime('%Y-%m')}"
+    file_date = until_dt.strftime('%Y-%m-%d')
 
     draft = f"""---
 slug: {slug}
@@ -159,8 +170,8 @@ date: {file_date}
   1. Replace the raw activity log with 3–5 named prose highlights.
   2. Warm tone — accessible to scholars, not just a commit log.
   3. Commit this file to:
-       blog/{file_date}-cdsl-newsletter-{now.strftime('%Y-%m').replace('-', '-')}.md  (csl-guides)
-       {now.strftime('%B%Y').lower()}.md                                                (csl-newsletter)
+       blog/{file_date}-cdsl-newsletter-{until_dt.strftime('%Y-%m')}.md  (csl-guides)
+       {until_dt.strftime('%B%Y').lower()}.md                              (csl-newsletter)
   4. Paste into Buttondown and send.
 -->
 
