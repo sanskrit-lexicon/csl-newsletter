@@ -10,6 +10,26 @@ Email delivery is via **Buttondown**. To subscribe: https://sanskrit-lexicon.git
 
 ## Archive
 
+### Annual editions
+
+| Year | Link |
+| --- | --- |
+| 2026 (Jan–Jun) | [2026 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2026.md) |
+| 2025 | [2025 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2025.md) |
+| 2024 | [2024 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2024.md) |
+| 2023 | [2023 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2023.md) |
+| 2022 | [2022 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2022.md) |
+| 2021 | [2021 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2021.md) |
+| 2020 | [2020 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2020.md) |
+| 2019 | [2019 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2019.md) |
+| 2018 | [2018 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2018.md) |
+| 2017 | [2017 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2017.md) |
+| 2016 | [2016 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2016.md) |
+| 2015 | [2015 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2015.md) |
+| 2014 | [2014 year in review](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/annual2014.md) |
+
+### Monthly editions
+
 | Year | Month | Link |
 | --- | --- | --- |
 | 2026 | July | [July, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/july2026.md) |
