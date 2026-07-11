@@ -24,6 +24,10 @@ none of the 2026 editions have been mailed to subscribers yet. A subscribe page 
 staged at
 [csl-guides/users/newsletter](https://sanskrit-lexicon.github.io/csl-guides/users/newsletter).
 
+## Documentation
+
+- [docs/PUBLISH_MANUAL.md](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/docs/PUBLISH_MANUAL.md) — **operator manual**: the full publish workflow (draft with explicit windows → prose edit → edition + archive row → csl-guides blog twin → the pending send step), symptom→cause→cure. The `/cdsl-newsletter-publisher` skill is the automated path; the manual is the human fallback and its specification.
+
 ## Tooling
 
 [`scripts/draft-newsletter.py`](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/scripts/draft-newsletter.py)
