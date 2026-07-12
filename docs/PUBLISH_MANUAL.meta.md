@@ -22,7 +22,7 @@ delivery step. Doubles as the specification the
 ## Provenance
 
 Authored 11-07-2026 by Fable 5 (`claude-fable-5`) under handoff
-[H514-Fable_csl-newsletter_compile_publish_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/H514-Fable_csl-newsletter_compile_publish_manual_10.07.26.md)
+[H514-Fable_csl-newsletter_compile_publish_manual_10.07.26](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H514-Fable_csl-newsletter_compile_publish_manual_10.07.26.md)
 (the H501–H531 per-repo manuals programme, Litpam-Indexator MANUAL.md gold
 standard). Content read from readme.md (H549-refreshed, current truth),
 CLAUDE.md (workflow of record, one stale claim), `draft-newsletter.py`,
