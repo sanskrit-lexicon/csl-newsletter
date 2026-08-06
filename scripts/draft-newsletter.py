@@ -46,10 +46,19 @@ def gh_paginate(path):
     )
     if result.returncode != 0:
         return []
-    try:
-        return json.loads(result.stdout)
-    except json.JSONDecodeError:
-        return []
+    # --paginate concatenates one JSON array per page ("[...][...]"), which a
+    # single json.loads rejects — decode arrays one at a time and flatten.
+    items, text, pos = [], result.stdout.strip(), 0
+    decoder = json.JSONDecoder()
+    while pos < len(text):
+        try:
+            page, pos = decoder.raw_decode(text, pos)
+        except json.JSONDecodeError:
+            break
+        items.extend(page if isinstance(page, list) else [page])
+        while pos < len(text) and text[pos] in ' \r\n\t':
+            pos += 1
+    return items
 
 
 def main():

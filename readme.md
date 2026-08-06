@@ -1,6 +1,6 @@
 # csl-newsletter
 
-_Created: 04-10-2021 · Last updated: 11-07-2026_
+_Created: 04-10-2021 · Last updated: 06-08-2026_
 
 Archive and tooling home for the email newsletter of the
 [Cologne Digital Sanskrit Dictionaries](https://www.sanskrit-lexicon.uni-koeln.de)
@@ -79,7 +79,7 @@ content), not finished editions.
 | 2026 | November | template | [November, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/november2026.md) |
 | 2026 | October | template | [October, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/october2026.md) |
 | 2026 | September | template | [September, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/september2026.md) |
-| 2026 | August | template | [August, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/august2026.md) |
+| 2026 | August | drafted | [August, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/august2026.md) |
 | 2026 | July | drafted | [July, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/july2026.md) |
 | 2026 | June | drafted | [June, 2026](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/june2026.md) |
 | 2023 | July | archived | [July, 2023](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/july2023.md) |
