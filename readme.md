@@ -111,3 +111,5 @@ consistent with the wider CDSL project.
 _Dr. Mārcis Gasūns_
 </content>
 </invoke>
+
+_Dr. Mārcis Gasūns_

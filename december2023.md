@@ -1,3 +1,5 @@
+_Created: 09-12-2023 · Last updated: 05-09-2026_
+
 # Datewise log
 
 ## 09 December 2023
@@ -10,3 +12,5 @@
 # Brewing ideas
   1. Abhidhānachintāmaṇipariśiṣṭa (ACPH) and Abhidhānachintāmaṇiśiloñcha (ACSJ) are going to be added in the same manner as ABCH. See https://github.com/funderburkjim/kosha-dev/issues/25
   
+
+_Dr. Mārcis Gasūns_

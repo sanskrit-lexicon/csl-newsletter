@@ -1,3 +1,5 @@
+_Created: 15-05-2026 · Last updated: 05-09-2026_
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with this repository.
@@ -85,3 +87,5 @@ This repository uses the Cologne tooling-repo taxonomy. All issues must have:
 - **Exactly one severity label** — `trivial` · `minor` · `major` · `critical`
 - **One milestone** — API Stability · User Experience · Data Quality ·
   Developer Experience · Community
+
+_Dr. Mārcis Gasūns_

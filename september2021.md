@@ -1,3 +1,5 @@
+_Created: 13-09-2021 · Last updated: 05-09-2026_
+
 # Datewise log
 
 ## 01 September 2021
@@ -251,3 +253,4 @@
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab
 
+_Dr. Mārcis Gasūns_

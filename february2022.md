@@ -1,3 +1,5 @@
+_Created: 11-02-2022 · Last updated: 05-09-2026_
+
 # Datewise log
 
 ## 01 February 2022
@@ -133,3 +135,5 @@
 17. funderburkjim/boesp-prep-ab
 18. csl-ldev
 19. https://github.com/hrishikeshrt/PyCDSL
+
+_Dr. Mārcis Gasūns_

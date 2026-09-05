@@ -1,3 +1,5 @@
+_Created: 11-02-2022 · Last updated: 05-09-2026_
+
 # Datewise log
 
 ## 01 January 2022
@@ -135,3 +137,5 @@
 16. funderburkjim/boesp-prep-sam
 17. funderburkjim/boesp-prep-ab
 18. csl-ldev
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 29-06-2026 · Last updated: 05-09-2026_
+
 Date: Mon, 31 Dec 2018
 Subject: Cologne Sanskrit Dictionaries year in review (2018)
 
@@ -54,3 +56,5 @@ Subscribe to future editions
 https://sanskrit-lexicon.github.io/csl-guides/users/newsletter
 
 To unsubscribe from future updates, reply with "unsubscribe" in the subject line.
+
+_Dr. Mārcis Gasūns_
