@@ -64,7 +64,7 @@ To unsubscribe from future updates, reply with "unsubscribe" in the subject line
 After committing `{month}{year}.md`, add a row to the archive table in `readme.md`:
 
 ```markdown
-| {YYYY} | {Month} | [{Month}, {YYYY}](https://github.com/sanskrit-lexicon/csl-newsletter/blob/main/{month}{year}.md) |
+| {YYYY} | {Month} | {Month}, {YYYY} |
 ```
 
 Insert at the top of the table (most recent first).
